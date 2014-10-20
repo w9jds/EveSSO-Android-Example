@@ -2,6 +2,11 @@
 *.apk
 *.ap_
 
+#Android Studio files
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+
 # Files for the Dalvik VM
 *.dex
 
